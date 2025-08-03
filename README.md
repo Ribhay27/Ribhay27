@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there 👋 I'm Ribhay Singh
 
-<!--
-**Ribhay27/Ribhay27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML & Data Engineer in the making | Final-Year Data Science Student at ASU  
+🔍 Interests: AI, Machine Learning, Python, Data Engineering, and Cloud Tools  
+💻 Building intelligent and useful products with GPT, SQL, and Databricks  
 
-Here are some ideas to get you started:
+## 🛠 Projects I'm Proud Of
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **FitPro**: ML-powered fitness analytics platform predicting calorie burn  
+- **EchoMind AI**: Mental health journaling tool using GPT-3.5 + FastAPI  
+- **World Happiness Analysis**: Data storytelling project using Python + Tableau  
+
+## 🌱 What I'm Learning
+
+- System design for backend engineering  
+- Advanced ML model optimization  
+- Spark + Cloud deployment on GCP/AWS  
+
+📫 Reach me at: [your email]  
+📍 Based in [Location] | Open to internships & full-time roles
