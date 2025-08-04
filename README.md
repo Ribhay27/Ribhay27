@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ What I Do
-- Work with **Python**, **SQL**, **Pandas**, and **scikit-learn** to build data-driven systems  
+- Work with **Python**, **SQL**, **Java**, and **C++** to build data-driven systems  
 - Explore **AI & NLP** through projects powered by **GPT-3.5**, **FastAPI**, and **LangChain**  
 - Analyze and visualize data using **Tableau**, **Matplotlib**, and **Seaborn**  
 - Deploy ML workflows with **Databricks**, **Streamlit**, and cloud tools like **GCP/AWS**  
