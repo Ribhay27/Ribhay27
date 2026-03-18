@@ -1,7 +1,6 @@
 # Hey there 👋 I'm Ribhay Singh
 
-🚀 Data Science Graduate from Arizona State University 
-💡 Building intelligent tools with Python, SQL, and Databricks  
+Data Science Graduate from Arizona State University | Building intelligent tools with Python, SQL, and Databricks  
 
 ---
 
