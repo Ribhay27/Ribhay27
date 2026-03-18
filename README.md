@@ -27,7 +27,7 @@ Data Science Graduate from Arizona State University | Building intelligent syste
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 - System Design for backend engineering  
 - Advanced ML techniques and model tuning  
 - Spark + cloud deployments on GCP/AWS  
