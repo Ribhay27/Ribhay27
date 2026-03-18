@@ -15,7 +15,7 @@
 
 ### 🔧 Projects I'm Proud Of
 
-- **Small Business Administration Loan Default Prediction** - Machine learning project predicting SBA 7(a) loan repayment outcomes using 1.2M+ loan records.
+- **Small Business Administration Loan Default Prediction** - Machine learning project predicting SBA 7(a) loan repayment outcomes using 1.2M+ loan records
 - **FitPro** – ML-powered fitness analytics app predicting calorie burn and performance goals 
 - **EchoMind AI** – Mental health journaling assistant using GPT-3.5 + FastAPI  
 - **World Happiness Explorer** – Data storytelling + regression modeling using Python & Tableau  
