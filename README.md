@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Ribhay Singh
 
-🚀 Aspiring AI/ML & Data Professional | Final-Year Data Science Student @ ASU  
+🚀 Data Science Graduate from Arizona State University 
 💡 Building intelligent tools with Python, SQL, and Databricks  
 
 ---
@@ -15,10 +15,12 @@
 
 ### 🔧 Projects I'm Proud Of
 
-- **FitPro** – ML-powered fitness analytics app predicting calorie burn and performance goals  
+- **Small Business Administration Loan Default Prediction** - Machine learning project predicting SBA 7(a) loan repayment outcomes using 1.2M+ loan records.
+- **FitPro** – ML-powered fitness analytics app predicting calorie burn and performance goals 
 - **EchoMind AI** – Mental health journaling assistant using GPT-3.5 + FastAPI  
 - **World Happiness Explorer** – Data storytelling + regression modeling using Python & Tableau  
 - **Real Estate Forecasting** – Predictive pricing tool built with multiple regression
+  
 
 ---
 
