@@ -18,7 +18,7 @@ Data Science Graduate from Arizona State University | Building intelligent syste
 ### Projects I'm Proud Of
 
 - **Small Business Administration Loan Default Prediction** - Machine learning project predicting SBA 7(a) loan repayment outcomes using 1.2M+ loan records
--  **HireLens (Under Progress)** - Job market intelligence platform that analyzes job postings to uncover hiring trends, in-demand skills, and role insights using data pipelines and NLP.
+-  **HireLens - Job market intelligence platform that analyzes job postings to uncover hiring trends, in-demand skills, and role insights using data pipelines and NLP.
 - **FitPro** – ML-powered fitness analytics app predicting calorie burn and performance goals 
 - **EchoMind AI** – Mental health journaling assistant using GPT-3.5 + FastAPI  
 - **World Happiness Explorer** – Data storytelling + regression modeling using Python & Tableau  
