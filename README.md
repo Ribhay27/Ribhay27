@@ -36,4 +36,4 @@ Data Science Graduate from Arizona State University | Building intelligent syste
 ---
 
 📬 **Reach me at**: singhribhay@gmail.com 
-📍 **Based in**: Tempe, AZ | Open to internships & full-time opportunities
+📍 **Based in**: Phoenix, AZ | Open to internships & full-time opportunities
