@@ -31,7 +31,8 @@ Data Science Graduate from Arizona State University | Building intelligent syste
 - System Design for backend engineering  
 - Advanced ML techniques and model tuning  
 - Spark + cloud deployments on GCP/AWS  
-- Building AI agents with LangChain and vector DBs  
+- Building AI agents with LangChain and vector DBs
+- Frontend Development 
 
 ---
 
