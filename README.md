@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Ribhay Singh
+# Hey 👋 I'm Ribhay Singh
 
 Data Science Graduate from Arizona State University | Building intelligent systems through data, analytics, and machine learning
 
