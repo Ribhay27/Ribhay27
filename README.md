@@ -93,4 +93,4 @@ AI journaling assistant that turns reflections into emotional summaries you can 
 📫 **Email:** [singhribhay@gmail.com](mailto:singhribhay@gmail.com)
 🌐 **Portfolio:** [ribhaysingh.vercel.app](https://ribhaysingh.vercel.app)
 💼 **LinkedIn:** [linkedin.com/in/ribhaysingh](https://www.linkedin.com/in/ribhaysingh/)
-📍 **Phoenix, AZ** — open to internships & full-time roles in Data Engineering, Data Science & Data Analytics
+📍 **Phoenix, AZ** — open to internships & full-time roles in Data Engineering, Data Science, Data Analytics and Machine Learning 
