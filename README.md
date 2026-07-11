@@ -50,7 +50,7 @@ I'm a Data Science graduate from Arizona State University (Computer Science trac
 **[CareMetrics](https://github.com/Ribhay27/CareMetrics)** — Clinical Performance & Readmission Risk Analytics Pipeline<br>
 End-to-end hospital quality analytics platform built on public CMS and CDC data. Airflow orchestrates ingestion, dbt transforms it into a PostgreSQL warehouse, and XGBoost/LightGBM models predict 30-day readmission risk with SHAP-based explainability — served through a FastAPI backend and a Streamlit dashboard.<br>
 `Airflow` `dbt` `PostgreSQL` `XGBoost` `LightGBM` `SHAP` `FastAPI` `Streamlit`
-> _repo is live but still needs a description + a pushed README — add your headline metric (AUC, records processed) once it's finalized_
+
 
 **[HireLens](https://github.com/Ribhay27/hirelens)** — Job Market Intelligence Platform<br>
 Scrapes job postings, pipes them through a PostgreSQL data pipeline, extracts in-demand skills with NLP, and surfaces hiring trends across a 5-page Streamlit dashboard.<br>
@@ -86,14 +86,7 @@ AI journaling assistant that turns reflections into emotional summaries you can 
 - Building AI agents with LangChain and vector databases
 - Modern frontend frameworks (React)
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ribhay27&show_icons=true&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribhay27&layout=compact&hide_border=true" height="165" alt="Top languages"/>
-</div>
-
----
 
 ### Let's Connect
 
