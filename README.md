@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ribhaysingh.vercel.app-C9A227?style=flat-square)](https://ribhaysingh.vercel.app)
 [![Email](https://img.shields.io/badge/Email-singhribhay%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhribhay@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribhaysingh/)
 
 </div>
 
@@ -86,11 +86,18 @@ AI journaling assistant that turns reflections into emotional summaries you can 
 - Building AI agents with LangChain and vector databases
 - Modern frontend frameworks (React)
 
+---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ribhay27&show_icons=true&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribhay27&layout=compact&hide_border=true" height="165" alt="Top languages"/>
+</div>
+
+---
 
 ### Let's Connect
 
 📫 **Email:** [singhribhay@gmail.com](mailto:singhribhay@gmail.com)
 🌐 **Portfolio:** [ribhaysingh.vercel.app](https://ribhaysingh.vercel.app)
-💼 **LinkedIn:** _add your LinkedIn URL here_
+💼 **LinkedIn:** [linkedin.com/in/ribhaysingh](https://www.linkedin.com/in/ribhaysingh/)
 📍 **Phoenix, AZ** — open to internships & full-time roles in Data Engineering, Data Science & Data Analytics
