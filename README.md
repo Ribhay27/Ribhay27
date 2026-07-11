@@ -86,14 +86,7 @@ AI journaling assistant that turns reflections into emotional summaries you can 
 - Building AI agents with LangChain and vector databases
 - Modern frontend frameworks (React)
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ribhay27&show_icons=true&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribhay27&layout=compact&hide_border=true" height="165" alt="Top languages"/>
-</div>
-
----
 
 ### Let's Connect
 
