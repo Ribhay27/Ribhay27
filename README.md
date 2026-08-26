@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a Data Science graduate from Arizona State University (Computer Science track, Dean's List) who likes working across the full lifecycle of a data problem — from ingesting messy real-world data to shipping models people can actually use. As a Software Engineer Intern at Initialyze, I built ETL pipelines and REST APIs on Databricks. Since then I've been building end-to-end ML systems on my own, most recently **CareMetrics** — a hospital quality analytics platform that predicts readmission risk from CMS and CDC public data.
+I'm a Data Science graduate from Arizona State University who likes working across the full lifecycle of a data problem — from ingesting messy real-world data to shipping models people can actually use. As a Software Engineer Intern at Initialyze, I built ETL pipelines and REST APIs on Databricks. Since then I've been building end-to-end ML systems on my own, most recently **CareMetrics** — a hospital quality analytics platform that predicts readmission risk from CMS and CDC public data.
 
 ### Tech Stack
 
