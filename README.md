@@ -47,7 +47,7 @@ I'm a Data Science graduate from Arizona State University who likes working acro
 
 ### Featured Projects
 
-**[CareMetrics (Work In Progress)](https://github.com/Ribhay27/CareMetrics)** — Clinical Performance & Readmission Risk Analytics Pipeline<br>
+**[CareMetrics](https://github.com/Ribhay27/CareMetrics)** — Clinical Performance & Readmission Risk Analytics Pipeline<br>
 End-to-end hospital quality analytics platform built on public CMS and CDC data. Airflow orchestrates ingestion, dbt transforms it into a PostgreSQL warehouse, and XGBoost/LightGBM models predict 30-day readmission risk with SHAP-based explainability — served through a FastAPI backend and a Streamlit dashboard.<br>
 `Airflow` `dbt` `PostgreSQL` `XGBoost` `LightGBM` `SHAP` `FastAPI` `Streamlit`
 
