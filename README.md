@@ -5,7 +5,7 @@
 ### Data Science Graduate @ Arizona State University
 ### Building data systems that turn messy data into useful decisions.
 
-**Data Engineering · Machine Learning · Analytics · Time-Series Forecasting**
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://ribhaysingh.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribhaysingh)
