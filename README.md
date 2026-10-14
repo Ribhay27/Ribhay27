@@ -1,106 +1,152 @@
+<div align="center">
+
 # Hi, I'm Ribhay Singh 👋
 
-**Data Science Graduate (ASU) building end-to-end data & ML systems — from pipelines to production**
+### Data Science Graduate @ Arizona State University
+### Building data systems that turn messy data into useful decisions.
 
-[Portfolio](https://ribhaysingh.vercel.app) · [Email](mailto:singhribhay@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ribhaysingh)
+**Data Engineering · Machine Learning · Analytics · Time-Series Forecasting**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://ribhaysingh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribhaysingh)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhribhay@gmail.com)
+
+</div>
+
+---
 
 ## About Me
 
-I'm a Data Science graduate from Arizona State University who likes working across the full lifecycle of a data problem — from ingesting messy real-world data to shipping models people can actually use. As a Software Engineer Intern at Initialyze, I built ETL pipelines and REST APIs on Databricks. Since then I've been building end-to-end ML systems on my own, most recently CareMetrics — a hospital quality analytics platform that predicts readmission risk from CMS and CDC public data.
+I'm a **Data Science graduate from Arizona State University** interested in building across the full data lifecycle: ingesting raw data, designing reliable pipelines, analyzing behavior, training models, and turning results into tools people can actually use.
 
-## Tech Stack
+During my Software Engineering internship at **Initialyze**, I worked with enterprise data workflows, ETL, APIs, Databricks, and structured data systems. My recent projects span **data engineering, analytics, forecasting, and applied machine learning**.
 
-### Languages
-Python · SQL · Java · C++
+📍 Phoenix, AZ  
+🎯 Targeting **Data Engineer, Data Analyst, Data Scientist, and ML Engineer** roles
 
-### Data Engineering & ML
-PySpark · Databricks · Airflow · dbt · PostgreSQL · XGBoost
-
-### Deployment & Cloud
-FastAPI · Streamlit · AWS · GCP
-
-### Visualization
-Tableau · Matplotlib · Seaborn
+---
 
 ## Featured Projects
 
-### CareMetrics — Clinical Performance & Readmission Risk Analytics Pipeline
+### ⚡ [ForecastBench — Electricity Demand Forecasting](https://github.com/Ribhay27/time-series-forecasting-benchmark)
 
-End-to-end hospital quality analytics platform built on public CMS and CDC data. Airflow orchestrates ingestion, dbt transforms it into a PostgreSQL warehouse, and XGBoost/LightGBM models predict 30-day readmission risk with SHAP-based explainability — served through a FastAPI backend and a Streamlit dashboard.
+> **When does additional model complexity actually improve time-series forecasting?**
 
-**Airflow · dbt · PostgreSQL · XGBoost · LightGBM · SHAP · FastAPI · Streamlit**
+Time-series forecasting benchmark built on **50,000+ hours of German electricity-demand data**, comparing a deliberate complexity ladder from a seasonal baseline to tree-based ML, neural networks, recurrent models, and Transformers.
 
----
+Using the previous **168 hours of demand to forecast the next 24**, the project benchmarks **Seasonal Naive, XGBoost, DLinear, LSTM, and PatchTST** under the same chronological, leakage-safe evaluation setup.
 
-### [Electricity Demand Forecasting — Accuracy vs. Model Complexity](https://github.com/Ribhay27/time-series-forecasting-benchmark)
-
-Time-series forecasting benchmark built on **50,000+ hours of German electricity-demand data**, comparing models from a simple seasonal baseline to tree-based ML, neural networks, recurrent models, and Transformers.
-
-Using the previous **168 hours of demand to forecast the next 24**, I benchmarked Seasonal Naive, XGBoost, DLinear, LSTM, and PatchTST under the same chronological evaluation setup.
-
-PatchTST achieved the best test performance at **2.57% WAPE**, while XGBoost finished close behind at **2.64%**. DLinear also outperformed the more complex LSTM, showing that additional model complexity did not consistently translate into better forecasting accuracy.
+**Best result:** PatchTST reached **2.57% WAPE**, with XGBoost close behind at **2.64%** — showing that additional model complexity does not automatically translate into better forecasting accuracy.
 
 **Python · PyTorch · XGBoost · DLinear · LSTM · PatchTST · Time-Series Forecasting**
 
----
-
-### HireLens — Job Market Intelligence Platform
-
-Scrapes job postings, pipes them through a PostgreSQL data pipeline, extracts in-demand skills with NLP, and surfaces hiring trends across a 5-page Streamlit dashboard.
-
-**Python · PostgreSQL · NLP · Streamlit**
+➡️ **[View ForecastBench on GitHub](https://github.com/Ribhay27/time-series-forecasting-benchmark)**
 
 ---
 
-### SBA Loan Default Prediction
+### 🛒 [PurchasePath — E-Commerce Funnel Analytics](https://github.com/Ribhay27/purchasepath-analytics)
 
-ML pipeline predicting SBA 7(a) loan default risk from 1.2M+ historical loan records, surfacing which features matter most for repayment outcomes.
+GA4 e-commerce analytics project built around the customer journey from **session → product view → cart → checkout → purchase**. Uses BigQuery SQL to transform raw event data into session-level funnel metrics and identify high-impact conversion opportunities by device, geography, and acquisition channel.
 
-**Python · Machine Learning**
+**BigQuery · SQL · GA4 · Funnel Analysis · E-Commerce Analytics**
+
+➡️ **[View PurchasePath on GitHub](https://github.com/Ribhay27/purchasepath-analytics)**
 
 ---
 
-### FitPro
+### 🏥 [CareMetrics — Healthcare Data Platform](https://github.com/Ribhay27/CareMetrics)
 
-Full-stack fitness analytics app predicting calorie burn with Random Forest and XGBoost, with real-time tracking via PostgreSQL/Databricks and a Streamlit dashboard for progress visualization.
+End-to-end healthcare data platform built around public hospital-quality data, with layered ELT modeling, automated data-quality checks, orchestration, APIs, and cloud-ready infrastructure.
+
+**Python · SQL · PostgreSQL · Airflow · dbt · Docker · FastAPI · Azure · GitHub Actions**
+
+➡️ **[View CareMetrics on GitHub](https://github.com/Ribhay27/CareMetrics)**
+
+---
+
+### 🔎 [HireLens — Job Market Intelligence Platform](https://github.com/Ribhay27/hirelens)
+
+Scrapes job postings, pipes them through a PostgreSQL data workflow, extracts in-demand skills with NLP, and surfaces hiring trends through a multi-page Streamlit dashboard.
+
+**Python · PostgreSQL · NLP · Streamlit · Data Pipelines**
+
+➡️ **[View HireLens on GitHub](https://github.com/Ribhay27/hirelens)**
+
+---
+
+### 💳 [SBA Loan Default Prediction](https://github.com/Ribhay27/SBA)
+
+Machine-learning project focused on predicting SBA loan default risk from large-scale historical lending data and identifying the variables most associated with repayment outcomes.
+
+**Python · Pandas · Scikit-learn · Machine Learning · Risk Analytics**
+
+➡️ **[View SBA Project on GitHub](https://github.com/Ribhay27/SBA)**
+
+---
+
+### 🏋️ [FitPro — Fitness Analytics](https://github.com/Ribhay27/FitPro)
+
+Fitness analytics project combining predictive modeling with user-facing analytics to estimate calorie burn and visualize fitness progress.
 
 **Python · Random Forest · XGBoost · PostgreSQL · Databricks · Streamlit**
 
----
-
-### World Happiness Explorer
-
-End-to-end analysis of global happiness data — cleaning, EDA, and regression modeling to uncover the socio-economic drivers of national well-being, visualized in Tableau.
-
-**Python · Tableau · Regression**
+➡️ **[View FitPro on GitHub](https://github.com/Ribhay27/FitPro)**
 
 ---
 
-### Real Estate Forecasting
+### 🌍 [World Happiness Report Analysis](https://github.com/Ribhay27/World-Happiness-Report-Analysis)
 
-Home price forecasting tool built with multiple regression analysis.
+End-to-end analysis of global happiness data using cleaning, exploratory analysis, correlation analysis, and regression to investigate the socio-economic factors associated with national well-being.
 
-**Python · Regression**
+**Python · Pandas · Regression · EDA · Tableau**
+
+➡️ **[View Project on GitHub](https://github.com/Ribhay27/World-Happiness-Report-Analysis)**
 
 ---
 
-### EchoMind AI
+### 🧠 [EchoMind AI](https://github.com/Ribhay27/EchoMind)
 
-AI journaling assistant that turns reflections into emotional summaries you can revisit over time, built with FastAPI and an LLM backend.
+AI journaling concept that turns written reflections into structured emotional summaries that can be revisited over time.
 
-**FastAPI · LLM**
+**FastAPI · LLMs · Python**
 
-## Currently Learning
+➡️ **[View EchoMind on GitHub](https://github.com/Ribhay27/EchoMind)**
 
-- System design for backend/data engineering roles
-- Advanced ML techniques & model tuning
-- Spark and cloud-native deployment on GCP/AWS
-- Building AI agents with LangChain and vector databases
-- Modern frontend frameworks (React)
+---
 
-## Let's Connect
+## Tech Stack
 
-📫 **Email:** [singhribhay@gmail.com](mailto:singhribhay@gmail.com)  
-🌐 **Portfolio:** [ribhaysingh.vercel.app](https://ribhaysingh.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/ribhaysingh](https://www.linkedin.com/in/ribhaysingh)  
-📍 **Phoenix, AZ** — open to internships & full-time roles in Data Engineering, Data Science, Data Analytics and Machine Learning
+**Languages**  
+`Python` · `SQL` · `Java` · `C++`
+
+**Data Engineering**  
+`PostgreSQL` · `BigQuery` · `PySpark` · `Databricks` · `Airflow` · `dbt` · `Docker`
+
+**Machine Learning**  
+`Scikit-learn` · `XGBoost` · `PyTorch` · `Time-Series Forecasting` · `NLP`
+
+**APIs, Cloud & Deployment**  
+`FastAPI` · `Streamlit` · `GitHub Actions` · `AWS` · `GCP` · `Azure`
+
+**Analytics & Visualization**  
+`Pandas` · `NumPy` · `Matplotlib` · `Tableau`
+
+---
+
+## What I'm Focused On
+
+- Building **production-style data pipelines** rather than notebook-only projects
+- Strengthening **SQL, Python, data modeling, and system design**
+- Deepening practical **ML and time-series forecasting** skills
+- Learning how data systems move from **raw ingestion → transformation → modeling → serving**
+- Building projects that answer a clear business or research question, not just demonstrate a tool
+
+---
+
+<div align="center">
+
+### From raw data → reliable systems → useful decisions.
+
+[Portfolio](https://ribhaysingh.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ribhaysingh) · [Email](mailto:singhribhay@gmail.com)
+
+</div>
