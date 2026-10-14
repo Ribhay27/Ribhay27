@@ -22,13 +22,13 @@ I'm a **Data Science graduate from Arizona State University** interested in buil
 During my Software Engineering internship at **Initialyze**, I worked with enterprise data workflows, ETL, APIs, Databricks, and structured data systems. My recent projects span **data engineering, analytics, forecasting, and applied machine learning**.
 
 📍 Phoenix, AZ  
-🎯 Targeting **Data Engineer, Data Analyst, Data Scientist, and ML Engineer** roles
+
 
 ---
 
 ## Featured Projects
 
-### ⚡ [ForecastBench — Electricity Demand Forecasting](https://github.com/Ribhay27/time-series-forecasting-benchmark)
+###  [ForecastBench — Electricity Demand Forecasting](https://github.com/Ribhay27/time-series-forecasting-benchmark)
 
 > **When does additional model complexity actually improve time-series forecasting?**
 
@@ -44,7 +44,7 @@ Using the previous **168 hours of demand to forecast the next 24**, the project 
 
 ---
 
-### 🛒 [PurchasePath — E-Commerce Funnel Analytics](https://github.com/Ribhay27/purchasepath-analytics)
+###  [PurchasePath — E-Commerce Funnel Analytics](https://github.com/Ribhay27/purchasepath-analytics)
 
 GA4 e-commerce analytics project built around the customer journey from **session → product view → cart → checkout → purchase**. Uses BigQuery SQL to transform raw event data into session-level funnel metrics and identify high-impact conversion opportunities by device, geography, and acquisition channel.
 
@@ -54,7 +54,7 @@ GA4 e-commerce analytics project built around the customer journey from **sessio
 
 ---
 
-### 🏥 [CareMetrics — Healthcare Data Platform](https://github.com/Ribhay27/CareMetrics)
+###  [CareMetrics — Healthcare Data Platform](https://github.com/Ribhay27/CareMetrics)
 
 End-to-end healthcare data platform built around public hospital-quality data, with layered ELT modeling, automated data-quality checks, orchestration, APIs, and cloud-ready infrastructure.
 
@@ -64,7 +64,7 @@ End-to-end healthcare data platform built around public hospital-quality data, w
 
 ---
 
-### 🔎 [HireLens — Job Market Intelligence Platform](https://github.com/Ribhay27/hirelens)
+###  [HireLens — Job Market Intelligence Platform](https://github.com/Ribhay27/hirelens)
 
 Scrapes job postings, pipes them through a PostgreSQL data workflow, extracts in-demand skills with NLP, and surfaces hiring trends through a multi-page Streamlit dashboard.
 
@@ -74,7 +74,7 @@ Scrapes job postings, pipes them through a PostgreSQL data workflow, extracts in
 
 ---
 
-### 💳 [SBA Loan Default Prediction](https://github.com/Ribhay27/SBA)
+###  [SBA Loan Default Prediction](https://github.com/Ribhay27/SBA)
 
 Machine-learning project focused on predicting SBA loan default risk from large-scale historical lending data and identifying the variables most associated with repayment outcomes.
 
@@ -84,7 +84,7 @@ Machine-learning project focused on predicting SBA loan default risk from large-
 
 ---
 
-### 🏋️ [FitPro — Fitness Analytics](https://github.com/Ribhay27/FitPro)
+###  [FitPro — Fitness Analytics](https://github.com/Ribhay27/FitPro)
 
 Fitness analytics project combining predictive modeling with user-facing analytics to estimate calorie burn and visualize fitness progress.
 
@@ -94,7 +94,7 @@ Fitness analytics project combining predictive modeling with user-facing analyti
 
 ---
 
-### 🌍 [World Happiness Report Analysis](https://github.com/Ribhay27/World-Happiness-Report-Analysis)
+###  [World Happiness Report Analysis](https://github.com/Ribhay27/World-Happiness-Report-Analysis)
 
 End-to-end analysis of global happiness data using cleaning, exploratory analysis, correlation analysis, and regression to investigate the socio-economic factors associated with national well-being.
 
@@ -104,7 +104,7 @@ End-to-end analysis of global happiness data using cleaning, exploratory analysi
 
 ---
 
-### 🧠 [EchoMind AI](https://github.com/Ribhay27/EchoMind)
+###  [EchoMind AI](https://github.com/Ribhay27/EchoMind)
 
 AI journaling concept that turns written reflections into structured emotional summaries that can be revisited over time.
 
