@@ -28,7 +28,7 @@ During my Software Engineering internship at **Initialyze**, I worked with enter
 
 ## Featured Projects
 
-###  [ForecastBench — Electricity Demand Forecasting](https://github.com/Ribhay27/time-series-forecasting-benchmark)
+###  [Electricity Demand Forecasting](https://github.com/Ribhay27/time-series-forecasting-benchmark)
 
 > **When does additional model complexity actually improve time-series forecasting?**
 
