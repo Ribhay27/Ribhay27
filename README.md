@@ -44,16 +44,6 @@ Using the previous **168 hours of demand to forecast the next 24**, the project 
 
 ---
 
-###  [PurchasePath — E-Commerce Funnel Analytics](https://github.com/Ribhay27/purchasepath-analytics)
-
-GA4 e-commerce analytics project built around the customer journey from **session → product view → cart → checkout → purchase**. Uses BigQuery SQL to transform raw event data into session-level funnel metrics and identify high-impact conversion opportunities by device, geography, and acquisition channel.
-
-**BigQuery · SQL · GA4 · Funnel Analysis · E-Commerce Analytics**
-
-➡️ **[View PurchasePath on GitHub](https://github.com/Ribhay27/purchasepath-analytics)**
-
----
-
 ###  [CareMetrics — Healthcare Data Platform](https://github.com/Ribhay27/CareMetrics)
 
 End-to-end healthcare data platform built around public hospital-quality data, with layered ELT modeling, automated data-quality checks, orchestration, APIs, and cloud-ready infrastructure.
@@ -64,16 +54,6 @@ End-to-end healthcare data platform built around public hospital-quality data, w
 
 ---
 
-###  [HireLens — Job Market Intelligence Platform](https://github.com/Ribhay27/hirelens)
-
-Scrapes job postings, pipes them through a PostgreSQL data workflow, extracts in-demand skills with NLP, and surfaces hiring trends through a multi-page Streamlit dashboard.
-
-**Python · PostgreSQL · NLP · Streamlit · Data Pipelines**
-
-➡️ **[View HireLens on GitHub](https://github.com/Ribhay27/hirelens)**
-
----
-
 ###  [SBA Loan Default Prediction](https://github.com/Ribhay27/SBA)
 
 Machine-learning project focused on predicting SBA loan default risk from large-scale historical lending data and identifying the variables most associated with repayment outcomes.
@@ -81,6 +61,26 @@ Machine-learning project focused on predicting SBA loan default risk from large-
 **Python · Pandas · Scikit-learn · Machine Learning · Risk Analytics**
 
 ➡️ **[View SBA Project on GitHub](https://github.com/Ribhay27/SBA)**
+
+---
+
+###  [PurchasePath — E-Commerce Funnel Analytics](https://github.com/Ribhay27/purchasepath-analytics)
+
+GA4 e-commerce analytics project built around the customer journey from **session → product view → cart → checkout → purchase**. Uses BigQuery SQL to transform raw event data into session-level funnel metrics and identify high-impact conversion opportunities by device, geography, and acquisition channel.
+
+**BigQuery · SQL · GA4 · Funnel Analysis · E-Commerce Analytics**
+
+➡️ **[View PurchasePath on GitHub](https://github.com/Ribhay27/purchasepath-analytics)**
+
+---
+
+###  [HireLens — Job Market Intelligence Platform](https://github.com/Ribhay27/hirelens)
+
+Scrapes job postings, pipes them through a PostgreSQL data workflow, extracts in-demand skills with NLP, and surfaces hiring trends through a multi-page Streamlit dashboard.
+
+**Python · PostgreSQL · NLP · Streamlit · Data Pipelines**
+
+➡️ **[View HireLens on GitHub](https://github.com/Ribhay27/hirelens)**
 
 ---
 
